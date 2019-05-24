@@ -1,0 +1,5 @@
+# NestedConflict
+
+RecyclerView嵌套RecyclerView
+
+ScrollView嵌套RecyclerView
