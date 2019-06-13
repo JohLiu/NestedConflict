@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.joh.myapplication">
-
-    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    package="com.joh.demo.scrowviewdemo">
 
     <application
         android:allowBackup="true"
@@ -14,6 +12,7 @@
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
 
+        <!--首页-->
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -21,9 +20,15 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".system.SystemInfoActivity" />
-        <activity android:name=".svg.SvgAnimationActivity" />
-        <activity android:name=".draw.DrawActivity" />
+
+        <!--RecyclerView嵌套RecyclerView-->
+        <activity android:name=".NestOneActivity" />
+
+        <!--ScrollView嵌套RecyclerView-->
+        <activity
+            android:name=".NestTwoActivity"
+            android:label="@string/title_activity_main2"
+            android:theme="@style/AppTheme.NoActionBar" />
     </application>
 
 </manifest>

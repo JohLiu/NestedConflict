@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/AndroidHeroesNote.iml" filepath="$PROJECT_DIR$/AndroidHeroesNote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NestedConflict.iml" filepath="$PROJECT_DIR$/NestedConflict.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ScrowViewDemo.iml" filepath="$PROJECT_DIR$/ScrowViewDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
