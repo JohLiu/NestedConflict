@@ -1,28 +1,3 @@
 <resources>
-    <string name="app_name">NestedConflict</string>
-
-    <string name="example">案例</string>
-    <string name="nest_one">RecyclerView嵌套RecyclerView</string>
-    <string name="nest_two">ScrollView嵌套RecyclerView</string>
-
-    <string name="text_one">
-
-        "\t\t富士山被日本人民誉为“圣岳”，是日本民族的象征。作为日本的国家象征之一，在全球享有盛誉。"
-        "它也经常被称作“芙蓉峰”或“富岳”以及“不二的高岭”。自古以来，"
-        "这座山的名字就经常在日本的传统诗歌“和歌”中出现。日本诗人曾用“玉扇倒悬东海天”、"
-        "“富士白雪映朝阳”等诗句赞美它。\n\n\t\t"
-
-        "富士山是世界上最大的活火山之一。目前处于休眠状态，但地质学家仍然把它列入活火山之类。"
-        "自781年有文字记载以来，共喷发了18次，最后一次喷发是在1707年，此后休眠至今。"
-
-    </string>
-
-    <string name="text_title">
-
-        "\t\t富士山（日文：ふじさん，英文：Mount Fuji）是日本国内最高峰，日本重要国家象征之一。"
-        "横跨静冈县和山梨县的活火山，接近太平洋岸，东京西南方约80公里。"
-
-    </string>
-    <string name="title_activity_main2">Main2Activity</string>
-
+    <string name="app_name">My Application</string>
 </resources>
